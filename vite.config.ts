@@ -15,7 +15,7 @@ export default defineConfig(({ mode }) => ({
   },
   // GitHub Pages friendly (project sites & custom domains)
   // - 'base' as relative to allow serving under /REPO_NAME/
-  base: "./",
+  base: "/Jake/",
   build: {
     outDir: "docs",
     sourcemap: false,
